@@ -14,7 +14,7 @@ Student Name : Anavi Srivastava <br />
 Enrollment Number : 02801012022 <br />
 Department : CSE department <br />
 College : IGDTUW <br />
-Email : anavisrivastava@gmail.com <br />
+Email : anavi028btcse22@igdtuw.ac.in <br />
 
 
 
@@ -23,7 +23,7 @@ Student Name : Ipshita Tandon <br />
 Enrollment Number : 07001012022 <br />
 Department : CSE department <br />
 College : IGDTUW <br />
-Email : ipshitatandon@gmail.com <br />
+Email : ipshita070btcse22@igdtuw.ac.in <br />
 
 
 
