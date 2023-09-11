@@ -7,7 +7,7 @@ Department : IT department <br />
 College : IGDTUW <br />
 Email : sowmyaemani06@gmail.com <br />
 
-<br />
+
 
 Roll Number : 23053 <br />
 Student Name : Anavi Srivastava <br />
@@ -16,7 +16,7 @@ Department : CSE department <br />
 College : IGDTUW <br />
 Email : anavisrivastava@gmail.com <br />
 
-<br />
+
 
 Roll Number : 23148 <br />
 Student Name : Ipshita Tandon <br />
@@ -25,11 +25,11 @@ Department : CSE department <br />
 College : IGDTUW <br />
 Email : ipshitatandon@gmail.com <br />
 
-<br />
+
 
 Dataset Link : https://www.kaggle.com/datasets/datamunge/sign-language-mnist <br />
 
-<br />
+
 
 Summary : American Sign Language (ASL) is a vital mode
 of communication for individuals with hearing impairments.
