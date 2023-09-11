@@ -1,17 +1,11 @@
 Project Title : American Sign Language Recognition
 
-Roll Number : 23428
-
-Student Name : Sowmya Emani
-
-Enrollment Number : 06801192022
-
-Department : IT department
-
-College : IGDTUW
-
-Email : sowmyaemani06@gmail.com
-
+Roll Number : 23428 <br />
+Student Name : Sowmya Emani <br />
+Enrollment Number : 06801192022 <br />
+Department : IT department <br />
+College : IGDTUW <br />
+Email : sowmyaemani06@gmail.com <br />
 
 
 Roll Number : 23053
