@@ -7,38 +7,29 @@ Department : IT department <br />
 College : IGDTUW <br />
 Email : sowmyaemani06@gmail.com <br />
 
+<br />
 
-Roll Number : 23053
+Roll Number : 23053 <br />
+Student Name : Anavi Srivastava <br />
+Enrollment Number : 02801012022 <br />
+Department : CSE department <br />
+College : IGDTUW <br />
+Email : anavisrivastava@gmail.com <br />
 
-Student Name : Anavi Srivastava
+<br />
 
-Enrollment Number : 02801012022
+Roll Number : 23148 <br />
+Student Name : Ipshita Tandon <br />
+Enrollment Number : 07001012022 <br />
+Department : CSE department <br />
+College : IGDTUW <br />
+Email : ipshitatandon@gmail.com <br />
 
-Department : CSE department
+<br />
 
-College : IGDTUW
+Dataset Link : https://www.kaggle.com/datasets/datamunge/sign-language-mnist <br />
 
-Email : anavisrivastava@gmail.com
-
-
-
-Roll Number : 23148
-
-Student Name : Ipshita Tandon
-
-Enrollment Number : 07001012022
-
-Department : CSE department
-
-College : IGDTUW
-
-Email : ipshitatandon@gmail.com
-
-
-
-Dataset Link : https://www.kaggle.com/datasets/datamunge/sign-language-mnist
-
-
+<br />
 
 Summary : American Sign Language (ASL) is a vital mode
 of communication for individuals with hearing impairments.
