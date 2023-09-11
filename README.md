@@ -47,7 +47,7 @@ into text, thereby enabling seamless communication between
 ASL users and those unfamiliar with sign language. This paper
 offers insights into the technical aspects of ASL detection using
 machine learning and underscores its potential to revolutionise
-communication inclusivity for diverse communities
+communication inclusivity for diverse communities.
 
 
 
