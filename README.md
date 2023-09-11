@@ -1,30 +1,49 @@
 Project Title : American Sign Language Recognition
 
 Roll Number : 23428
+
 Student Name : Sowmya Emani
+
 Enrollment Number : 06801192022
+
 Department : IT department
+
 College : IGDTUW
+
 Email : sowmyaemani06@gmail.com
 
 
+
 Roll Number : 23053
+
 Student Name : Anavi Srivastava
+
 Enrollment Number : 02801012022
+
 Department : CSE department
+
 College : IGDTUW
+
 Email : anavisrivastava@gmail.com
 
 
+
 Roll Number : 23148
+
 Student Name : Ipshita Tandon
+
 Enrollment Number : 07001012022
+
 Department : CSE department
+
 College : IGDTUW
+
 Email : ipshitatandon@gmail.com
 
 
+
 Dataset Link : https://www.kaggle.com/datasets/datamunge/sign-language-mnist
+
 
 
 Summary : American Sign Language (ASL) is a vital mode
